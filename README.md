@@ -12,7 +12,7 @@ This notebook is a planning tool that evaluates the emergency preparedness of un
 
 # **Technologies**
 
-This application is a Jupyter Notebook and makes use of the Alpaca SDK asa well as python-dotenv llibraries. These can be installed with the following commands: 
+This application is a Jupyter Notebook and makes use of the Alpaca SDK as well as python-dotenv llibraries. These can be installed with the following commands: 
 
 ```python
 pip install alpaca-trade-api
